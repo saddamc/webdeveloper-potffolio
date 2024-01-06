@@ -247,4 +247,10 @@ textarea {
     width: 100%;
 }
 
+/* Add this CSS to center the second "Download CV" button */
+.donwload-cv button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px; 
+}
 
